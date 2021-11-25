@@ -1,2 +1,2 @@
 # sample
-repository one
+Don't Expect more, I'm still learning
